@@ -15,7 +15,7 @@ This report demonstrates the **time savings** and **cost benefits** NWU Tech Tre
 ## How to Use the Report
 
 ### Step 1: Accessing the Report
-1. Open the Power BI report by clicking on the following link: [Report URL](#)
+1. Open the Power BI report by clicking on the following link: https://app.powerbi.com/groups/me/reports/2830ae1d-0eb7-43cf-8007-9b1a8a990b06/9b7063b173d8dffabaff?experience=power-bi
    
 ### Step 2: Exploring Key Metrics
 1. Navigate to the **High-Level Metrics** page to see the overall savings and project progress.
