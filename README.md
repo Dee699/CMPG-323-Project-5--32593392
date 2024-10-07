@@ -1,7 +1,4 @@
 # CMPG-323-Project-5--32593392
-To ensure your **ReadMe.md** file in the GitHub repository is clear and provides a step-by-step guide on how users can interact with your Power BI report, here's a sample template you can follow:
-
----
 
 # NWU Tech Trends Benefit Realisation Report
 
